@@ -1,1 +1,1 @@
-# This is Hyun Suk Jin's analyst portfolio project with using SQL, Python and Power BI
+# This is Hyun Suk Jin's Sales analysis portfolio project with using MSSQl and Power BI. If you want to see the visualized Power BI dashboard, please download Sales dashboard.pbix file. Specidic information is stated in Sales analysis report pdf file.
